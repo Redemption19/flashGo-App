@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "153423822137",
+    "firebase_url": "https://ride-hailing-app-86274-default-rtdb.firebaseio.com",
+    "project_id": "ride-hailing-app-86274",
+    "storage_bucket": "ride-hailing-app-86274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153423822137:android:c1521d677e0b95daea7ce8",
+        "android_client_info": {
+          "package_name": "com.redeem.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153423822137-i6ri8betpjcrrmorf48busm86shvl4u8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redeem.driverapp",
+            "certificate_hash": "f02c883198a43232a5e8ce49a9747d541b3ed9fe"
+          }
+        },
+        {
+          "client_id": "153423822137-96jem6vdigo68sd05be1hbvtiknr5cte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLg0aXCZ9CmDDdps5mlRkvehaoQ_0z-ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153423822137-96jem6vdigo68sd05be1hbvtiknr5cte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153423822137:android:3a9a9a19628a703fea7ce8",
+        "android_client_info": {
+          "package_name": "com.redeem.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153423822137-t5mel32msqbk3pbvnqipur8n51mi8l65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redeem.userapp",
+            "certificate_hash": "f02c883198a43232a5e8ce49a9747d541b3ed9fe"
+          }
+        },
+        {
+          "client_id": "153423822137-96jem6vdigo68sd05be1hbvtiknr5cte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLg0aXCZ9CmDDdps5mlRkvehaoQ_0z-ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153423822137-96jem6vdigo68sd05be1hbvtiknr5cte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
